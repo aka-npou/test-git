@@ -9,5 +9,6 @@ class Main {
         System.out.println("asd");
         String s = "asdasd";
         System.out.println(s);
+        System.out.println("dddd");
     }
 }
