@@ -7,5 +7,7 @@ package main;
 class Main {
     public static void main(String[] args) {
         System.out.println("asd");
+        String s = "asdasd";
+        System.out.println(s);
     }
 }
